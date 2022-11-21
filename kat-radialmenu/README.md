@@ -1,6 +1,9 @@
 # qb-radialmenu
+INSTALLATION!:snowman:
+- DRAG AND DROP TO YOUR SERVER FOLDER.:snowflake:
+- RENAME IT TO qb-clothing:snowflake:
+- AND THEN START YOUR SERVER:snowflake:
 
-I RE-MAKE IT WITH OTHER COLOUR!
 Radial Menu Used With QB-Core :arrows_counterclockwise:
 
 **Now using FontAwesome Icons!**
